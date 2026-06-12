@@ -15,7 +15,7 @@ draft: false
 
 ## Summary
 
-Experienced software developer with a strong background in backend development, web technologies, and system administration. Skilled in building maintainable applications, working with databases, and deploying solutions in modern development environments.
+Software developer with a strong background in backend development, web technologies, and system administration. Skilled in building maintainable applications, working with databases, and deploying solutions in modern development environments.
 
 ---
 
