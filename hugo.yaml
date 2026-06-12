@@ -1,5 +1,6 @@
 languageCode: en-us
 title: Vahram Papazyan
+baseURL: "https://vahram-papazyan.github.io/portfolio/"
 
 theme: "PaperMod"
 
