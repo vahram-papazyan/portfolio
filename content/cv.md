@@ -5,7 +5,7 @@ date: 2026-06-11
 draft: false
 ---
 
-**Mid-level technical writer** | [Download PDF](../cv.pdf)
+**Mid-level technical writer** | [Download PDF](/cv.pdf)
 
 **Email:** vahram.developer@gmail.com  
 **Phone:** +374 99 900901
