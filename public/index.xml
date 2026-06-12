@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/portfolio/cv/</link>
+      <link>http://localhost:1313/portfolio/my-cv/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/cv/</guid>
+      <guid>http://localhost:1313/portfolio/my-cv/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mid-level technical writer&lt;/strong&gt; | &lt;a href=&#34;http://localhost:1313/portfolio/cv.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:vahram.developer@gmail.com&#34;&gt;vahram.developer@gmail.com&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Phone:&lt;/strong&gt; +374 99 900901

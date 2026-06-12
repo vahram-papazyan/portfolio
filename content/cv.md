@@ -1,6 +1,6 @@
 ---
 title: "CV"
-url: "/cv/"
+url: "/my-cv/"
 date: 2026-06-11
 draft: false
 ---
