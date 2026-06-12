@@ -1,0 +1,25 @@
+languageCode: en-us
+title: Vahram Papazyan
+
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: About
+      url: "/about/"
+      weight: 1
+    - name: CV
+      url: "/cv/"
+      weight: 2
+
+params:
+  homeInfoParams:
+    Title: Welcome to my portfolio website
+    Content: I am a technical writer with 3+ years of experience and background in software development
+
+  socialIcons: # optional
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/vahrampapazyan/"
+    - name: "GitHub"
+      url: "https://github.com/vahram-papazyan"
+
