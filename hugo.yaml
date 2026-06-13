@@ -15,7 +15,7 @@ menu:
 
 params:
   homeInfoParams:
-    Title: Welcome to my portfolio website
+    Title: Welcome to my portfolio 
     Content: I am a technical writer with 3+ years of experience and background in software development
 
   socialIcons: # optional
