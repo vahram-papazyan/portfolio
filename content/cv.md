@@ -142,3 +142,8 @@ Software developer with a strong background in backend development, web technolo
 
 ---
 
+## Languages
+
+- Armenian (Native)  
+- Russian (Fluent)  
+- English (Upper-Intermediate)

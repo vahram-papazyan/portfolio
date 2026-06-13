@@ -32,18 +32,25 @@
 &lt;p&gt;&lt;em&gt;02.2023 – 06.2024&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Technical Documentation for FlowCrypt</title>
+      <link>http://localhost:1313/portfolio/posts/third/</link>
+      <pubDate>Tue, 04 Mar 2025 02:12:17 +0400</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/third/</guid>
+      <description>User guides, Manuals</description>
+    </item>
+    <item>
       <title>Convert Between Int and Char in Kotlin</title>
       <link>http://localhost:1313/portfolio/posts/second/</link>
       <pubDate>Sun, 18 Jun 2023 14:48:52 +0400</pubDate>
       <guid>http://localhost:1313/portfolio/posts/second/</guid>
-      <description>Baeldung</description>
+      <description>Article on Baeldung</description>
     </item>
     <item>
       <title>New Features Introduced in Java 9–17 Versions</title>
       <link>http://localhost:1313/portfolio/posts/first/</link>
       <pubDate>Sat, 04 Mar 2023 02:12:17 +0400</pubDate>
       <guid>http://localhost:1313/portfolio/posts/first/</guid>
-      <description>Hyperskill Blog on Medium</description>
+      <description>Hyperskill Blog post on Medium</description>
     </item>
     <item>
       <title>About</title>
